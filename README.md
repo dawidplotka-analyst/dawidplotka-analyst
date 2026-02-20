@@ -28,11 +28,12 @@ I am a results-driven Data Analyst focused on turning complex datasets into acti
 
 ### 🚀 Key Projects:
 
-1. **[E-commerce A/B Testing Analysis](https://github.com/dawidplotka-analyst/A-B-Testing-Analysis)** *My core portfolio project.* A comprehensive analysis using **SQL** for data extraction and **Python** for statistical hypothesis testing. It demonstrates how to drive business growth through data-backed decisions.
+1. **[SQL Data Transformations]([https://github.com/dawidplotka-analyst/Ecommerce-Data-Analysis](https://github.com/dawidplotka-analyst/Ecommerce-Conversion-Analysis))** *My core portfolio project.* Focuses on cleaning and aggregating large datasets to prepare them for business intelligence reporting.
 
-2. **[HR Analytics Dashboard](https://github.com/dawidplotka-analyst/HR-Analytics-PowerBI)** An interactive **Power BI** dashboard focused on workforce efficiency and employee retention. Showcases advanced data modeling and storytelling through visualization.
+2. **[E-commerce A/B Testing Analysis]([https://github.com/dawidplotka-analyst/A-B-Testing-Analysis](https://github.com/dawidplotka-analyst/A_B_Testing))**  A comprehensive analysis using **SQL** for data extraction and **Python** for statistical hypothesis testing. It demonstrates how to drive business growth through data-backed decisions.
+   
+3. **[HR Analytics Dashboard](https://github.com/dawidplotka-analyst/HR-Analytics-PowerBI)** An interactive **Power BI** dashboard focused on workforce efficiency and employee retention. Showcases advanced data modeling and storytelling through visualization.
 
-3. **[SQL Data Transformations](https://github.com/dawidplotka-analyst/Ecommerce-Data-Analysis)** Focuses on cleaning and aggregating large datasets to prepare them for business intelligence reporting.
 
 ---
 
