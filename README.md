@@ -31,8 +31,10 @@ I am a results-driven Data Analyst focused on turning complex datasets into acti
 1. **[SQL Data Transformations](https://github.com/dawidplotka-analyst/Ecommerce-Conversion-Analysis)** *My core portfolio project.* Focuses on cleaning and aggregating large datasets to prepare them for business intelligence reporting.
 
 2. **[E-commerce A/B Testing Analysis](https://github.com/dawidplotka-analyst/A_B_Testing)**  A comprehensive analysis using **SQL** for data extraction and **Python** for statistical hypothesis testing. It demonstrates how to drive business growth through data-backed decisions.
+
+3. **[Telecom Retention & Revenue Risk](https://github.com/dawidplotka-analyst/-Telecom-Retention-Revenue-Risk-Dashboard)** – A strategic **Power BI** dashboard integrated with a **churn prediction model**. It identifies critical revenue leaks (80% of loss in 5 segments) and quantifies risk tiers ($30k-$70k) to drive proactive retention strategies.
    
-3. **[HR Analytics Dashboard](https://github.com/dawidplotka-analyst/HR-Analytics-PowerBI)** An interactive **Power BI** dashboard focused on workforce efficiency and employee retention. Showcases advanced data modeling and storytelling through visualization.
+4. **[HR Analytics Dashboard](https://github.com/dawidplotka-analyst/HR-Analytics-PowerBI)** An interactive **Power BI** dashboard focused on workforce efficiency and employee retention. Showcases advanced data modeling and storytelling through visualization.
 
 
 ---
